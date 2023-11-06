@@ -6,11 +6,11 @@ kit.
 
 FILE STRUCTURE
 ```
-├──  README.md
-└──  warmups
-   ├──  counting_valleys
+├── README.md
+└── warmups
+   ├── counting_valleys
    │  └── ...
-   └──  index.html
+   └── index.html
 ```
 
 Where index.html is just a file so I can run in the console the 
